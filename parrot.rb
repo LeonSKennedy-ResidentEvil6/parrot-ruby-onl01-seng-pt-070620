@@ -4,6 +4,6 @@
 
 def parrot(name)
   puts "#{name}"
-  return
+  return name
 end 
 
